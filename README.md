@@ -15,6 +15,8 @@
 
 In the first part we created a pod network using Podman.  
 
+![alt text](img/qiot-rpi3-enviroplus.jpeg "QioT RPI enviro+ sensor")
+
 ## key descisions
 
 - create pod container network
