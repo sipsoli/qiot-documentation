@@ -54,6 +54,9 @@ docker buildx build -t quay.io/olivier_sips/qiot-sensor-service-base --platform=
 
 # Edge Service
 
+![alt text](img/qiot-architecture.png "QioT RPI enviro+ sensor")
+
+
 ## key decisions
 1. registration service.
 
