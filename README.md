@@ -1,3 +1,17 @@
+# Bill of materials
+
+## Source code
+- https://github.com/sipsoli/qiot-sensor-service-base
+- https://github.com/sipsoli/qiot-sensor-service
+- https://github.com/sipsoli/qiot-edge-service
+- https://github.com/sipsoli/qiot-admin-service
+
+## Public container images
+- https://quay.io/repository/olivier_sips/qiot-sensor-service-base
+- https://quay.io/repository/olivier_sips/qiot-sensor-service
+- https://quay.io/repository/olivier_sips/qiot-edge-service
+- https://quay.io/repository/olivier_sips/qiot-admin-service
+
 # Fedora IoT Operating System
 
 In the first part we created a pod network using Podman.  
