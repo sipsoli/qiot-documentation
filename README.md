@@ -7,10 +7,9 @@
 - https://github.com/sipsoli/qiot-admin-service
 
 ## Public container images
-- https://quay.io/repository/olivier_sips/qiot-sensor-service-base
-- https://quay.io/repository/olivier_sips/qiot-sensor-service
-- https://quay.io/repository/olivier_sips/qiot-edge-service
-- https://quay.io/repository/olivier_sips/qiot-admin-service
+- quay.io/souheil_allaoui/qiot-sensor-service:1.0.0-aarch64
+- quay.io/souheil_allaoui/qiot-edge-service:1.4.0-aarch64
+- quay.io/olivier_sips/qiot-admin-service
 
 # Fedora IoT Operating System
 
